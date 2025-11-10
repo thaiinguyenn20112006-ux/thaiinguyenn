@@ -62,7 +62,7 @@ const totalCartValue=()=>{
                 <td>Tên</td>
                 <td>Số lượng</td>
                 <td>Giá</td>
-                <td>Tổng tiền</td>
+                <td>Tổng tiền...</td>
             </tr>
         </thead>
         <tbody>
